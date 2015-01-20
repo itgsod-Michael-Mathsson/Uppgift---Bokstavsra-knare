@@ -2,7 +2,6 @@ __author__ = 'michael.mathsson'
 
 import string
 
-
 def count_letters(text):
     letters = {}
 
